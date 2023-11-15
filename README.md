@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/kaansen97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaansen97&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/kaansen97/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaansen97&repo=anuraghazra.github.io&theme=buefy" />
 </a>

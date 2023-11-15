@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-
+| <a href="https://github.com/kaansen97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaansen97&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Kaan's github stats" /></a> | <a href="https://github.com/kaansen97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaansen97&layout=compact&theme=dark&hide_border=true" /></a> |
 | <a href="https://github.com/kaansen97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaansen97&layout=compact&theme=dark&hide_border=true" /></a> |

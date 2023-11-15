@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 
 | <a href="https://github.com/kaansen97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaansen97&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Kaan's github stats" /></a> | <a href="https://github.com/kaansen97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaansen97&layout=compact&theme=dark&hide_border=true" /></a> |
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/11145346426)
-
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/11145346426)
 </div>
